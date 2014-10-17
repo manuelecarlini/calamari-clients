@@ -23,7 +23,12 @@ min-height: 95px;
 .navbar-brand {
 	margin-top:12px;
 	margin-left:12px;
+	padding: 9px 30px;
 }
+
+.navbar-fixed-bottom {
+	position: inherit;
+	}
 
 
 .bc-circle {
