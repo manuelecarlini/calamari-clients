@@ -5,6 +5,9 @@
 @import "inktank_colors";
 @import "admin";
 
+// my own file that override the others
+@import 'vendor/suse';
+
 /* Put your CSS here */
 html, body {
 	border-radius: 3px;
